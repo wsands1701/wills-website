@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/www.willsandsmusic.com/static/css/main.be923cab.css",
-    "main.js": "/www.willsandsmusic.com/static/js/main.94450ca8.js",
-    "static/media/IMG_7332.jpeg": "/www.willsandsmusic.com/static/media/IMG_7332.db3c8518c8cce9c9b710.jpeg",
-    "index.html": "/www.willsandsmusic.com/index.html",
-    "main.be923cab.css.map": "/www.willsandsmusic.com/static/css/main.be923cab.css.map",
-    "main.94450ca8.js.map": "/www.willsandsmusic.com/static/js/main.94450ca8.js.map"
+    "main.css": "/static/css/main.be923cab.css",
+    "main.js": "/static/js/main.2fd175f7.js",
+    "static/media/IMG_7332.jpeg": "/static/media/IMG_7332.db3c8518c8cce9c9b710.jpeg",
+    "index.html": "/index.html",
+    "main.be923cab.css.map": "/static/css/main.be923cab.css.map",
+    "main.2fd175f7.js.map": "/static/js/main.2fd175f7.js.map"
   },
   "entrypoints": [
     "static/css/main.be923cab.css",
-    "static/js/main.94450ca8.js"
+    "static/js/main.2fd175f7.js"
   ]
 }
