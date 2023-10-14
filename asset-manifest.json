@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.be923cab.css",
-    "main.js": "/static/js/main.2fd175f7.js",
-    "static/media/IMG_7332.jpeg": "/static/media/IMG_7332.db3c8518c8cce9c9b710.jpeg",
-    "index.html": "/index.html",
-    "main.be923cab.css.map": "/static/css/main.be923cab.css.map",
-    "main.2fd175f7.js.map": "/static/js/main.2fd175f7.js.map"
+    "main.css": "/wills-website/static/css/main.be923cab.css",
+    "main.js": "/wills-website/static/js/main.c68e291e.js",
+    "static/media/IMG_7332.jpeg": "/wills-website/static/media/IMG_7332.db3c8518c8cce9c9b710.jpeg",
+    "index.html": "/wills-website/index.html",
+    "main.be923cab.css.map": "/wills-website/static/css/main.be923cab.css.map",
+    "main.c68e291e.js.map": "/wills-website/static/js/main.c68e291e.js.map"
   },
   "entrypoints": [
     "static/css/main.be923cab.css",
-    "static/js/main.2fd175f7.js"
+    "static/js/main.c68e291e.js"
   ]
 }
